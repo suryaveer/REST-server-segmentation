@@ -67,5 +67,5 @@ Also, you can specify the port where you want SegmentService to run (Default: 88
     }
 
 # Contact:
-    * Suryaveer Lodha (@slodha)
+    * Suryaveer Lodha (slodha@berkeley.edu)
         
